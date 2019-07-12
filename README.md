@@ -1,6 +1,6 @@
 # XML to CSV
 
-This is a quick bit of code to transform XML to CSV. This code was used to migrate an [InMagic database](https://lucidea.com/inmagic-dbtextworks/) to an [Atom database](https://www.accesstomemory.org/en/). The database has over 30,000 records.
+This is a quick bit of code to transform XML to CSV. This code was used to migrate an [InMagic database](https://lucidea.com/inmagic-dbtextworks/) to an [Atom database](https://www.accesstomemory.org/en/). The database has over 5,000 records.
 
 I had to do a bit of 'pre-cleaning' on the XML to remove some InMagic noise. I used a text editor to find and replace all instances of `inm:` in the XML tags. I also removed the root (or very first) tag, which looked like this:
 
