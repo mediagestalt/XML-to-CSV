@@ -10,7 +10,7 @@ I had to do a bit of 'pre-cleaning' on the XML to remove some InMagic noise. I u
 
 I know it's possible to read the XML and print to CSV (see [PeelXML](https://github.com/mediagestalt/PeelXML)) for that, but this makes everything way faster and requires much less unnecessary cleaning. 
 
-All of the code is described in the [Jupyter Notebook file](XML-to-CSV.ipynb).
+All of the code is described in the Jupyter Notebook file, both here in [this repository](XML-to-CSV.ipynb) or in [NBViewer](https://nbviewer.jupyter.org/github/mediagestalt/XML-to-CSV/blob/master/XML-to-CSV.ipynb).
 
 ## XML to JSON
 
