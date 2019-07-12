@@ -8,7 +8,7 @@ I had to do a bit of 'pre-cleaning' on the XML to remove some InMagic noise. I u
 <inm:Results productTitle="Inmagic DB/TextWorks" productVersion="14.00" xmlns:inm="http://www.inmagic.com/webpublisher/query">
 ```
 
-I know it's possible to read the XML and print to CSV (see [PeelXML](https://github.com/mediagestalt/PeelXML) for that, but this makes everything way faster and requires much less unnecessary cleaning. 
+I know it's possible to read the XML and print to CSV (see [PeelXML](https://github.com/mediagestalt/PeelXML)) for that, but this makes everything way faster and requires much less unnecessary cleaning. 
 
 All of the code is described in the [Jupyter Notebook file](XML-to-CSV.ipynb).
 
