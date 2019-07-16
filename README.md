@@ -12,7 +12,7 @@ Don't for get to also delete the closing tag at the end of the file, otherwise y
 
 I know it's possible to read the XML and print to CSV (see [PeelXML](https://github.com/mediagestalt/PeelXML)) for that, but this makes everything way faster and requires much less unnecessary cleaning. 
 
-All of the code is described in the Jupyter Notebook file, both here in [this repository](XML-to-CSV.ipynb) or in [NBViewer](https://nbviewer.jupyter.org/github/mediagestalt/XML-to-CSV/blob/master/XML-to-CSV.ipynb).
+All of the code is described in the Jupyter Notebook file, both here in this repository or in [NBViewer](https://nbviewer.jupyter.org/github/mediagestalt/XML-to-CSV/blob/master/XML-to-CSV.ipynb).
 
 ## XML to JSON
 
