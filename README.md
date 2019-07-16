@@ -8,6 +8,8 @@ I had to do a bit of 'pre-cleaning' on the XML to remove some InMagic noise. I u
 <inm:Results productTitle="Inmagic DB/TextWorks" productVersion="14.00" xmlns:inm="http://www.inmagic.com/webpublisher/query">
 ```
 
+Don't for get to also delete the closing tag at the end of the file, otherwise you'll get an error. In this case, the closing tag was `<Results>`.
+
 I know it's possible to read the XML and print to CSV (see [PeelXML](https://github.com/mediagestalt/PeelXML)) for that, but this makes everything way faster and requires much less unnecessary cleaning. 
 
 All of the code is described in the Jupyter Notebook file, both here in [this repository](XML-to-CSV.ipynb) or in [NBViewer](https://nbviewer.jupyter.org/github/mediagestalt/XML-to-CSV/blob/master/XML-to-CSV.ipynb).
